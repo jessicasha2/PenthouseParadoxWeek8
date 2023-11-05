@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Levels/MainMenu2_LVL.umap",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Levels/_GENERATED/TechPackage/Box_133B9A47.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Materials/M_KnifeOutline_Alpha.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Materials/M_knifeShilo_1.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/UI/KnifeOutline_Alpha2.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/UI/KnifeOutline_Alpha2_Mat.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/UI/M_KnifeOutline_Alpha2_Mat.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Materials/MI_KnifeOutline_Alpha2.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Materials/M_KnifeOutline_Alpha2_Mat.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Blueprints/Interaction/Interactables/BPI_Interact.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Widgets/W_ProgressBars.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Blueprints/Interfaces/BPI_Interacts.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Blueprints/Interaction/Actors/BP_DoorAwayFrom.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Blueprints/Inputs/Actions/IA_InteractWith.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Blueprints/GAME/BP_MysteryChar.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Blueprints/Interaction/Actors/BP_FLightActor2.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/UI/MI_KnifeOutline_Alpha2.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/KnifeOutline_Alpha.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/M_KnifeOutline_Alpha.uasset",
+				"D:/PenthousePardoxWeek7/PenthouseParadox_V75/Content/Textures/MI_KnifeOutline_Alpha.uasset"
+			]
+		}
+	]
+}
